@@ -17,7 +17,7 @@
         {
             "name": "Julien Michell Herwig",
             "email": "julienmichellh@gmail.com"
-        },
+        }
     ],
     "minimum-stability": "dev",
     "autoload": {
