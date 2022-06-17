@@ -1,5 +1,5 @@
 {
-  "name": "rene-roscher/nicapi-client",
+  "name": "cookiemc337/nicapi-client",
     "description": "A full-featured implementation of the Json Api.",
     "type": "library",
     "require": {
@@ -13,7 +13,11 @@
         {
             "name": "Rene Roscher",
             "email": "roscher794@gmail.com"
-        }
+        },
+        {
+            "name": "Julien Michell Herwig",
+            "email": "julienmichellh@gmail.com"
+        },
     ],
     "minimum-stability": "dev",
     "autoload": {
