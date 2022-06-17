@@ -1,10 +1,12 @@
 <p align="center">
-<a href="https://packagist.org/packages/rene-roscher/nicapi-client"><img src="https://poser.pugx.org/rene-roscher/nicapi-client/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/rene-roscher/nicapi-client"><img src="https://poser.pugx.org/rene-roscher/nicapi-client/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/rene-roscher/nicapi-client"><img src="https://poser.pugx.org/rene-roscher/nicapi-client/license.svg" alt="License"></a>
+<a href="https://packagist.org/packages/cookiemc337/nicapi-client"><img src="https://poser.pugx.org/cookiemc337/nicapi-client/d/total.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/cookiemc337/nicapi-client"><img src="https://poser.pugx.org/cookiemc337/nicapi-client/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/cookiemc337/nicapi-client"><img src="https://poser.pugx.org/cookiemc337/nicapi-client/license.svg" alt="License"></a>
 </p>
 
 ## NicAPI.eu - Api Client - docs.nicapi.eu
+
+## Fork von Rene Roscher
 
 ## License
 
